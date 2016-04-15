@@ -116,8 +116,8 @@ palindrome('pottop')
 
 
     True
-
-### Or just use      return s==s[::-1] 
+   
+    Or just use      return s==s[::-1] 
 
 
 ```python
